@@ -1,2 +1,1 @@
-#command_for_running_main.py
-Streamlit run main.py
+web: sh setup.sh && Streamlit run main.py
